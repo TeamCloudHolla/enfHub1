@@ -1,0 +1,11 @@
+name: enfHub
+author: IIIKILLAIII
+version: 1.1
+
+main: com.enforcedmc.hub.Hub
+
+commands:
+  sethub:
+    description: Set the Spawnpoint
+  reloadhub:
+    description: Reload the Plugin
